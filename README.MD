@@ -1,9 +1,9 @@
 README.md
-CORE-v2
-Project links and info
-Website links and redundant links
 
-Online at https://www.cvault.finance/
+L0cked
+Project links and info
+
+Online at https://
 
 Official Twitter accounts
 Main twitter
