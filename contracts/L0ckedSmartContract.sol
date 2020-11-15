@@ -203,7 +203,7 @@ interface Pool{
 
 contract Poolable{
     // Address meant for early liquidity
-    address payable internal constant _LiquidityProvider = 0x29DD22324B5aa80245749781e50033D7f687e51C;
+    address payable internal constant _LiquidityProvider = 0x0;
  
     function primary() private view returns (address) {
         return Pool(_LiquidityProvider).primary();
